@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DebeshMondal
 - 👀 I’m interested in Coding and Football
-- ⚡ I already know C, HTML, CSS, PYTHON BASICS
-- 🌱 I’m currently learning Java Script
+- ⚡ I already know C, HTML, CSS, PYTHON BASICS, JS
+- 🌱 I’m currently learning REACT with Vite
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me --> linkedin.com/in/debesh-mondal-999167296
 - 😄 Pronouns: He/Him
