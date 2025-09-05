@@ -47,9 +47,6 @@
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-181717?style=flat-square&logo=github)
 ![OpenAI GPT](https://img.shields.io/badge/-GPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor%20AI-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Lovable](https://img.shields.io/badge/-Lovable%20AI-ff69b4?style=flat-square)
-![Uizard](https://img.shields.io/badge/-Uizard%20AI-5A67D8?style=flat-square)
-![V0.dev](https://img.shields.io/badge/-V0.dev-black?style=flat-square)
 
 ---
 
