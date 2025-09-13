@@ -15,13 +15,13 @@
 
 🌱 Currently learning:
 - Advanced **React Patterns** and **Backend Architecture**
-- Exploring **DSA** in Java
+- Exploring **DSA** 
 
 💬 Ask me about:
 - MERN Stack Development (MongoDB, Express, React, Node.js)
 - Basics of Python, Java, C
 - Data Structures & Algorithms in C++
-- Full-stack application architecture and deployment
+- Full-stack application deployment
 
 📫 How to reach me:
 - 📧 Email: [debeshmondal04@email.com](mailto:debeshmondal04@gmail.com)
